@@ -20,8 +20,8 @@ Exploring topics such as distributed systems, cloud computing, high-performance 
 - Software Engineering & Automation
 
 ## 🛠 Tech Stack
-**Languages:** Python, C/C++, SQL, JavaScript
-**Tools & Platforms:** Git, Docker, APIs
+- **Languages:** Python, C/C++, SQL, JavaScript  
+- **Tools & Platforms:** Git, Docker, APIs
 
 ---
 > ⚠️ *Note: Some coursework code may not be public due to Georgia Tech’s academic integrity policies.*
